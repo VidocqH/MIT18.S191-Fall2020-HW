@@ -13,6 +13,4 @@ Pluto.run()
 ```
 
 ## TODO
-1. Improve the quality of HW2 solu
-
-2. Finish other HWs
+Improve the quality of HW2 and HW10 solu
